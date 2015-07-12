@@ -1,0 +1,6 @@
+{
+  "name": "ngValidate",
+  "main": "src/ngValidate.js",
+  "ignore": [],
+  "dependencies": {}
+}
